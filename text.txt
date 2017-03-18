@@ -9,3 +9,5 @@ create branch01.
 
 
 master: branch01 can rebase now.
+
+Branch02: edit by branch02.
