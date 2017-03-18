@@ -6,3 +6,6 @@ add some message.
 
 edit by master.
 create branch01.
+
+
+master: branch01 can rebase now.
