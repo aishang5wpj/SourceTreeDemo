@@ -2,10 +2,12 @@ Branch:  Master
 Content: Good morning!
 
 
-add some message.
+master: add some message.
 
-edit by master.
+master: edit by master.
 create branch01.
 
 
 master: branch01 can rebase now.
+
+master: append text.
